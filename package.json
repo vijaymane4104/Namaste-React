@@ -1,0 +1,30 @@
+{
+  "name": "namsete-react",
+  "version": "1.0.0",
+  "description": "This is a React learning by vijay",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijaymane4104/Namaste-React.git"
+  },
+  "keywords": [
+    "react",
+    "vijay",
+    "mane"
+  ],
+  "author": "Vijay Mane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vijaymane4104/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/vijaymane4104/Namaste-React#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
