@@ -18,3 +18,24 @@
 - Error Handling
 - Https
 - Tree Shaking - remove unused code
+
+/\*\*
+
+- Header
+- -Logo
+- -NavItems
+- Body
+- -Search
+- -Resraurent Container
+- -Resturent Card
+- -Dish name
+- -Image
+- -Restaurent Name
+- -Cuisines
+- -Time too Deliver
+- Footer
+- -Copyrights
+- -Links
+- -Address
+- -Contacts
+  \*/
